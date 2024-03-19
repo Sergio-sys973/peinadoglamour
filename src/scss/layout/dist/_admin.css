@@ -1,0 +1,12 @@
+@use 'base/variables' as v;
+.citas {
+  list-style: none;
+  padding: 0;
+}
+
+.citas li {
+  padding: 1rem;
+  border-top: 1px solid;
+}
+
+/*# sourceMappingURL=_admin.css.map */

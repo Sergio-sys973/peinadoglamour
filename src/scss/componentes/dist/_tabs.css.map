@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["_tabs.scss"],"sourcesContent":["@use 'base/variables' as v;\r\n@use 'base/mixins' as m;"],"file":"_tabs.css"}

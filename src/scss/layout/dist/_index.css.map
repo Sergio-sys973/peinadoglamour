@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["_index.scss"],"sourcesContent":["@forward 'UI';\r\n@forward 'cita';\r\n@forward 'servicios';\r\n@forward 'resumen';\r\n@forward 'admin';\r\n\r\n\r\n\r\n\r\n"],"file":"_index.css"}

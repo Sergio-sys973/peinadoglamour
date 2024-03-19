@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.js"],"names":["alert"],"mappings":";;AAAAA,KAAK,CAAC,cAAD,CAAL","sourcesContent":["alert(\"Desde app.js\");"],"file":"app.dev.js"}

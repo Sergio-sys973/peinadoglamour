@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["_index.scss"],"sourcesContent":["@forward 'formulario';\r\n@forward 'botones';\r\n@forward 'acciones';\r\n@forward 'alertas';\r\n@forward 'tabs';\r\n@forward 'paginacion';\r\n\r\n\r\n\r\n"],"file":"_index.css"}
